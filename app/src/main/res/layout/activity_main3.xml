@@ -21,7 +21,7 @@
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="@string/textViewMain3" />
+            android:text="@string/textViewMain3" />
 
         <Button
             android:id="@+id/button3"
