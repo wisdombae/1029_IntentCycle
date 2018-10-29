@@ -4,4 +4,6 @@
     <string name="button1">Go to 2nd Activity</string>
     <string name="textViewMain2">Second Activity</string>
     <string name="button2">Go to 3rd Activity</string>
+    <string name="textViewMain3">Third Activity</string>
+    <string name="button3">Go to 1st Activity</string>
 </resources>
