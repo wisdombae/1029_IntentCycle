@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">1029_IntentCycle</string>
+    <string name="textViewMain1">First Activity</string>
+    <string name="button1">Go to 2nd Activity</string>
+    <string name="textViewMain2">Second Activity</string>
+    <string name="button2">Go to 3rd Activity</string>
 </resources>
